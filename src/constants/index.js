@@ -121,7 +121,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "27K",
     postedAt: "4 months ago",
@@ -135,7 +135,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "68K",
     postedAt: "9 months ago",
@@ -149,7 +149,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "57K",
     postedAt: "11 months ago",
@@ -161,9 +161,9 @@ export const videos = [
     id: "4",
     title: "🚀 Create A Responsive Full-Page Signup Form | Responsive HTML, CSS & JavaScript Tutorial",
     channel: {
-      name: "CodingLab",
+      name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "161K",
     postedAt: "1 year ago",
@@ -175,9 +175,9 @@ export const videos = [
     id: "5",
     title: "How To Create a Modern Responsive Personal Portfolio Website 🖥️",
     channel: {
-      name: "CodingLab",
+      name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "85K",
     postedAt: "2 months ago",
@@ -191,7 +191,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "7.4K",
     postedAt: "3 weeks ago",
@@ -203,9 +203,9 @@ export const videos = [
     id: "7",
     title: "Design Building A Stunning Interior Design Website | HTML & CSS Tutorial",
     channel: {
-      name: "CodingLab",
+      name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "42K",
     postedAt: "1 year ago",
@@ -219,7 +219,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "24K",
     postedAt: "1 year ago",
@@ -231,9 +231,9 @@ export const videos = [
     id: "9",
     title: "Design Building A Responsive Pet Store Website Using HTML CSS and JavaScript",
     channel: {
-      name: "CodingLab",
+      name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "1M",
     postedAt: "1 year ago",
@@ -247,7 +247,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "157K",
     postedAt: "9 months ago",
@@ -261,7 +261,7 @@ export const videos = [
     channel: {
       name: "CodingGujarat",
       url: "https://www.youtube.com/@CodingGujarat",
-      logo: "https://yt3.googleusercontent.com/LrCNrwOMkNOpLKnRl0GgvIQOgo1mR90oXa1pjbuSRIRBT3_FMTYUbdEllsUTxt7Wq8-qPOdd=s160-c-k-c0x00ffffff-no-rj",
+      logo: "https://yt3.googleusercontent.com/QFINmhiYUaQOnBeD79IieojekT3c2g3NDNWeYH6oc-Zuj-Tw07hvKoRI8hesalIgoQmaTgEQ=s160-c-k-c0x00ffffff-no-rj",
     },
     views: "17K",
     postedAt: "10 months ago",
