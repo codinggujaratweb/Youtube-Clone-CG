@@ -83,7 +83,7 @@ export const HeaderLeftSection = ({ toggleSidebar }) => {
       </button>
       <a className="flex items-center gap-2" href="#">
         <img src={Logo} width={32} alt="Logo" />
-        <h2 className="text-xl font-bold dark:text-neutral-300">CnTube</h2>
+        <h2 className="text-xl font-bold dark:text-neutral-300">CodingGujarat</h2>
       </a>
     </div>
   );
